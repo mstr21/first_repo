@@ -1,5 +1,6 @@
 
 # Ignored idea files
+.idea
 .idea/vcs.xml
 .idea/HTMLAcademy.iml
 .idea/modules.xml
